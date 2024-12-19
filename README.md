@@ -1,7 +1,7 @@
 # se-65114540233
 
-## ใช้รหัสเข้าเว็บ
+#ใช้รหัสเข้าเว็บ
 
-## usename pun
+#usename pun
 
-## password 0618170633pun
+#password 0618170633pun
